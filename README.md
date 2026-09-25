@@ -45,6 +45,10 @@ Cloud embedding providers (OpenAI, Cohere, Jina) introduce **recurring token cos
 
 Tested on standard consumer hardware (CPU only, single process):
 
+<img width="1395" height="678" alt="image" src="https://github.com/user-attachments/assets/721d865b-615f-4706-aeea-8fc46121fe7c" />
+
+
+
 | Batch Size | Total Execution Time | Throughput | Avg Time Per Text |
 | :--- | :--- | :--- | :--- |
 | **1 text** | `3.2 ms` | ~310 texts/sec | **3.2 ms** |
