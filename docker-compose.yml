@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  open-embed:
+    build: .
+    container_name: open-embed
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    environment:
+      - PORT=8000
