@@ -11,6 +11,9 @@
 
 ---
 
+<img width="1515" height="935" alt="image" src="https://github.com/user-attachments/assets/7628fa9d-266d-44d4-8f0d-1d185759362f" />
+
+
 ## 🚀 Why Open Embed?
 
 Cloud embedding providers (OpenAI, Cohere, Jina) introduce **recurring token costs**, **rate limits**, **network latency**, and **data privacy risks**. Heavy local inference servers (like Ollama or vLLM) often consume excessive RAM and disk space just to generate lightweight vector embeddings.
